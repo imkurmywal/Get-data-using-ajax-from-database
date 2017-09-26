@@ -2,7 +2,8 @@
 
 ## About The Project
 This is small project of PHP MYSQLI and AJAX
-#How It Work
+
+# How It Work
   This file ----sql-ajax-custumer-search.php---- Containing form to take Input form the user.
   
   And contianing Script File of ajax which take input on keyup event.
@@ -16,4 +17,4 @@ This is small project of PHP MYSQLI and AJAX
   
   - If input is something and match extract and show output from the database through mysqli
   
-  -if input is not found show That No record found 
+  - if input is not found show That No record found 
