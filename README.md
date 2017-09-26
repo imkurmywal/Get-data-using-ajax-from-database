@@ -26,7 +26,7 @@ This is small project of PHP MYSQLI and AJAX
   - sql-ajax-customer-search.php
   - search.php
   - sql-file.sql
-  - extract to your xamp file
+  - extract to your xamp folder
   # Next 
   - Create database name it logindata in your phpmyadmin
   - Import the --- sql-file.sql --- in there
