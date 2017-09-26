@@ -15,7 +15,7 @@ This is small project of PHP MYSQLI and AJAX
   The input check 
   - if input is empty in response give empty.
   
-  - If input is something and match extract and show output from the database through mysqli
+  - If input is something and match extract and show output from the database in table form through mysqli machting first name first letters of person
   
   - if input is not found show That No record found 
   
