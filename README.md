@@ -18,3 +18,16 @@ This is small project of PHP MYSQLI and AJAX
   - If input is something and match extract and show output from the database through mysqli
   
   - if input is not found show That No record found 
+  
+  # Instructions
+  
+  
+  # Download 
+  - sql-ajax-customer-search.php
+  - search.php
+  - sql-file.sql
+  - extract to your xamp file
+  # Next 
+  - Create database name it logindata in your phpmyadmin
+  - Import the --- sql-file.sql --- in there
+  - Now access the form file which is sql-ajax-customer-search.php
